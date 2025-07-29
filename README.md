@@ -1,6 +1,6 @@
 
 
-### Olá eu sou Vicente Junior👋
+### Olá, eu sou Vicente Junior👋
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas,sou amante da tecnologia e programar é praticamente meu playground, programando me sinto livre para criar e inovar, deixando um toque da minha personalidade. Meu foco é ser um grande desenvolvedor Mobile!!!.
 
