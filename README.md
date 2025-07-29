@@ -2,7 +2,7 @@
 
 ### Olá eu sou Vicente Junior👋
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas,sou amante da tecnologia e programar é praticamente meu playground, programando me sinto livre para criar e inovar, deixando um toque da minha personalidade. Meu foco é ser um grende desenvolvedor Mobile!!!.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas,sou amante da tecnologia e programar é praticamente meu playground, programando me sinto livre para criar e inovar, deixando um toque da minha personalidade. Meu foco é ser um grande desenvolvedor Mobile!!!.
 
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
